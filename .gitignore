@@ -1,0 +1,7 @@
+/lib
+/build
+/ivy
+*.class
+.cache
+.project
+.classpath
